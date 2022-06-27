@@ -1,0 +1,73 @@
+.TravelStories{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+.TravelStories h4{
+    font-size: 25px;
+    font-weight: 400;
+}
+.cardStories img{
+    border-radius: 20px;
+    height: 55vh;
+    width: 492%;
+    object-fit: cover;
+    margin: 20px;
+}
+.cardStories{
+    position: relative;
+}
+.overlayImage{
+    border-radius: 20px;
+    margin: 20px;
+    position: absolute;
+    content: "";
+    top: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 492%;
+     height:55vh;
+    opacity: 0;
+    background-color: black;
+}
+.cardStories .overlayImage{
+    opacity: 0.3;
+    
+}
+
+
+.textOverlayImage p{ 
+    z-index:122;
+    position: absolute;
+    top: 15%;
+    left: 95%;
+    color: white;
+    padding: 0px 12px 0px 12px;
+    font-size: 12px;
+    border: 1px solid white;
+    border-radius: 20px;
+    display: block !important;
+}
+.cardStories button{
+    position: absolute;
+    top: 71%;
+    left: 188%;
+    font-size: 16px;
+    width: 171%;
+    border: none;
+    background-color:     #d32f2f;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 4px 5px 4px 5px;
+}
+.treavelSummary p{
+    position: absolute;
+    top: 51%;
+    text-align: center;
+    left: 100%;
+    font-size: 14px;
+    width: 398%;
+    color: white;
+}

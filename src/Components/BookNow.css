@@ -1,0 +1,116 @@
+.Log_inFlight {
+    border-radius: 3px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    padding: 20px 10px 5px 0px;
+}
+
+.accountFlight li {
+    list-style: none;
+    display: inline;
+}
+
+.logGuest {
+    float: right;
+    margin-right: 20px;
+}
+
+.logGuest button {
+    margin-top: -7px;
+}
+
+.accountFlight i {
+    font-size: 23px;
+}
+
+.infectionIsolation {
+    background-color: #e7f7eb;
+    border-radius: 5px;
+    padding: 15px 35px 2px 20px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+}
+
+.flightIsolation i {
+    background-color: #92c94f;
+    padding: 7px;
+    color: white;
+    border-radius: 8px 0px 0px 8px !important;
+}
+
+.flightIsolation p {
+    border-radius: 8px 0px 0px 8px !important;
+    padding: 1px 0px 1px 0px;
+    margin-left: 10px;
+    background-color: #cce7ab;
+}
+
+.COVID_19 h6 {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.COVID_19 h6>i {
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
+.sicknessFlight {
+    background-color: #e6edda;
+    padding: 15px 12px 0px 19px;
+    border-radius: 20px;
+}
+
+.Sickness i {
+    color: #76bd1f;
+}
+
+.Sickness p {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.termsConditions p {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.labelText {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.amount {
+    margin-left: 35%;
+}
+
+.rupye {
+    margin-left: 11%;
+}
+
+.detailFlight23 {
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.detailFlight23 p {
+    color: #c3584b;
+}
+
+.Services623 {
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.suitcase button {
+    margin: 5px;
+    font-size: 18px;
+    color: black;
+    padding: 20px;
+    background-color: white;
+    max-width: 250px;
+        /* padding: 1rem; */
+        position: relative;
+        background: linear-gradient(to right, red, purple);
+        padding: 3px;
+}

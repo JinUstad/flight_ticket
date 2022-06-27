@@ -1,0 +1,89 @@
+.whoWeAre {
+    margin-top: 70px;
+}
+
+.whoWeAre h2 {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.whoWeAre p {
+    margin-top: 15px;
+    font-size: 17.5px;
+    font-weight: 350;
+    word-spacing: 3px;
+}
+
+.ourVision {
+
+    background-color: #0c2b4b;
+    padding: 45px 20px 45px 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.ourVision h5 {
+    color: #e4c516;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.ourVision p {
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+
+}
+
+.ourVisionfirm {
+    background-color: #0c2b4b;
+    padding: 45px 20px 45px 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.ourVisionfirm h5 {
+    color: #e4c516;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.ourVisionfirm p {
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.coreValue {
+    background-color: #0c2b4b;
+    padding: 17px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.coreValue h4 {
+    text-align: center;
+    color: #e4c516;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.coreValue>p>strong {
+    color: #e4c516 !important;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.coreValue p {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+    .whoWeAre h2 {
+        font-size: 25px;
+        font-weight: 800;
+        margin-bottom: -10px;
+    }
+    .ourVisionfirm {
+        margin-bottom: 20px;
+    }
+}

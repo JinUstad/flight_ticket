@@ -1,0 +1,11 @@
+.viewAllDetailsFlight {
+
+}
+.card-body i{
+    color: gray;
+}
+.card button:hover{
+    background-color: #dc3545;
+    color: white;
+    cursor: pointer;
+}

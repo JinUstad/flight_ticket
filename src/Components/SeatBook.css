@@ -1,0 +1,188 @@
+.seatBooking625 {
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.booking625 h5 {
+    font-size: larger;
+    margin-left: 3px;
+}
+
+.booking625 i {
+    float: right;
+    margin-right: 31px !important;
+    background-color: #eeeeee !important;
+    padding: 5px !important;
+    border-radius: 6px !important;
+    cursor: pointer !important;
+}
+
+.booking625>strong {
+    color: #00a4fc;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.wrapperData {
+
+    background-color: #f4f6f8 !important;
+}
+
+.rowData_236221 {
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+    place-content: center flex-start;
+    align-items: center;
+}
+
+.flexSec_236221 {
+
+    flex: 1 1 0%;
+    box-sizing: border-box;
+    padding: 6px 0px 6px 2px;
+    border-top: 1px solid #cdb4b4;
+    border-bottom: 1px solid #cdb4b4;
+}
+
+.adult625 {
+    font-size: 14px;
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+    place-content: center flex-start;
+    align-items: center;
+}
+
+.addyourSet625 {
+    flex: 1 1 0%;
+    box-sizing: border-box;
+    padding: 6px 0px 6px 2px;
+    border-top: 1px solid #cdb4b4;
+}
+
+.seatSection625 {
+    padding: 20px;
+
+}
+
+.seat625 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.chairIcon625 button {
+    margin-top: 15px;
+    width: 16%;
+    text-align: center !important;
+}
+
+.seatSelection {
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+}
+
+.seatsReceipt {
+    text-align: center;
+}
+
+.seatNumber {
+    display: inline;
+    padding: 16px;
+    background-color: #5c86eb;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: default;
+    height: 64px;
+    width: 74px;
+    line-height: 41px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+.seatRow {
+    padding: 10px;
+}
+
+.seatSelected {
+    background-color: lightgreen;
+    color: black;
+}
+
+.seatUnavailable {
+    background-color: gray;
+}
+
+.seatRowNumber {
+    clear: none;
+    display: inline;
+}
+
+.hidden {
+    display: none;
+}
+
+.seatsAmount {
+    max-width: 2em;
+}
+
+.Services623 {
+    background-color: white;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 80px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+.suitcase_23622 button {
+    padding: 1rem;
+    margin: 5px;
+    font-family: 'Avenir Next';
+    font-size: 18px;
+    padding: .5rem 3rem;
+    box-shadow: 0 0 6px 0 rgba(157, 96, 212, 0.5);
+    border: solid 3px transparent;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    box-shadow: 2px 1000px 1px #fff inset;
+}
+
+.suitcase_23622 button:hover {
+    box-shadow: none;
+    color: white;
+}
+
+
+.amountSec_22622 {
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    background-color: #f4f6f8;
+}
+
+.amountHed>h5 {
+    border-right: 1px solid gray !important;
+}
+
+.amout_22622 {
+    width: 32%;
+    display: grid;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 12px;
+}
+
+
+.btnbtnSec_22622>button {
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
